@@ -4,3 +4,7 @@ Dans le cadre du cours Machine learning with Python suivi à l'ENSAE Paris, nous
 Modèles:
   - Random Forest
   - KNN
+  
+### Contributors:
+- Aurelie NGALULA NGASSAM
+- Andres GARCIA PARRADO
